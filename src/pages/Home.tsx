@@ -174,7 +174,7 @@ export function Home() {
               goals with BodyMart.
             </p>
             <Link to="/register">
-              <Button size="lg" className="bg-white text-black hover:bg-gray-100 hover:text-white">
+              <Button size="lg" className="bg-white !text-black hover:bg-gray-100 hover:!text-white">
                 Get Started Today
               </Button>
             </Link>
